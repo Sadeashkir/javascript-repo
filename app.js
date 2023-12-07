@@ -65,5 +65,7 @@ console.log("you paid the exact amount, have a nice day")
 else {
   console.log(`not enough you still owe ${diffrence * -1} amount`)
 }
+ 
+
 
 
